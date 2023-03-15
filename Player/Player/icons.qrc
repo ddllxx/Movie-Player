@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/800ppi/1.png</file>
+        <file>icons/800ppi/1_1.png</file>
+        <file>icons/800ppi/1_2.png</file>
+        <file>icons/800ppi/1_3.png</file>
+        <file>icons/800ppi/1_4.png</file>
+        <file>icons/800ppi/1_5.png</file>
+        <file>icons/800ppi/4.png</file>
+        <file>icons/800ppi/4_1.png</file>
+        <file>icons/800ppi/4_1_2.png</file>
+        <file>icons/800ppi/4_2.png</file>
+        <file>icons/800ppi/4_3.png</file>
+        <file>icons/800ppi/4_4.png</file>
+        <file>icons/800ppi/4_5.png</file>
+        <file>icons/800ppi/5_1_1.png</file>
+        <file>icons/800ppi/6_1.png</file>
+        <file>icons/800ppi/6_2.png</file>
+    </qresource>
+</RCC>
